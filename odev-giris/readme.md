@@ -4,8 +4,8 @@
 
 ## Çalıştırmak için:
 
-- <code>npm install</code>
-- <code>npm start</code> ya da <code>node app</code>
+1. <code>npm install</code>
+2. <code>npm start</code> ya da <code>node app</code>
 
 ### Program Çıktısı
 
