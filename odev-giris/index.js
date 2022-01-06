@@ -30,4 +30,4 @@ const userDetailsAndPosts = async (userId) => {
   }
 };
 
-userDetailsAndPosts(1);
+export default userDetailsAndPosts;
