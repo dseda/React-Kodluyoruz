@@ -1,5 +1,7 @@
 # React ilk ödev çözümü
 
+Ödev gereksinimlerine [burdan](https://app.patika.dev/moduller/react/odev1) ulaşabilirsiniz.
+
 ## Çalıştırmak için:
 
 - <code>npm install</code>
