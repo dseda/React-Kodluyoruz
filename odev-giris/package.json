@@ -1,0 +1,17 @@
+{
+  "name": "odev-giris",
+  "version": "1.0.0",
+  "description": "Ödev kaynak: https://app.patika.dev/moduller/react/odev1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Seda Demir",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
